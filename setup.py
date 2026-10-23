@@ -32,8 +32,6 @@ setup(
         "Topic :: Software Development :: Libraries :: Python Modules",
     ],
     install_requires=[
-        'setuptools>=0.6b1',
-        'six>=1.11.0',
-        'Django>=1.8',
+        'Django>=2.2',
     ],
 )
